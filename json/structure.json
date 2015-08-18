@@ -1,0 +1,121 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "Health Info.",
+      "description": "Irish Health Information.",
+      "icon": "calendar",
+      "items": [
+        {
+          "id": 1,
+          "title": "IrishHealth.com",
+          "description": "Older People News Headline.",
+          "url": "http://www.irishhealth.com/rss/topics/topic_rssfeed.php?sectid=5"
+        },
+        {
+          "id": 2,
+          "title": "Lenus.ie",
+          "description": "The Irish Health Repository.",
+          "url": "http://www.lenus.ie/hse/feed/rss_2.0/10147/234134"
+        },
+        {
+          "id": 3,
+          "title": "Journal.ie",
+          "description": "Older People News",
+          "url": "http://www.thejournal.ie/topic/older-people/feed/"
+        },
+        {
+          "id": 4,
+          "title": "Hiqa.ie",
+          "description": "Health Information and Quality Authority.",
+          "url": "http://www.hiqa.ie/rss.xml"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "News",
+      "description": "Current Newspapers",
+      "icon": "flag",
+      "items": [
+        {
+          "id": 1,
+          "title": "Rte",
+          "description": "rte.ie",
+          "url": "http://www.rte.ie/news/rss/news-headlines.xml"
+        },
+        {
+          "id": 2,
+          "title": "The Independent",
+          "description": "independent.ie",
+          "url": "http://www.independent.ie/breaking-news/rss"
+        },
+        {
+          "id": 3,
+          "title": "The Irish Times",
+          "description": "irishtimes.ie",
+          "url": "https://www.irishtimes.com/cmlink/news-1.1319192"
+        },
+        {
+          "id": 4,
+          "title": "The Irish Examiner",
+          "description": "examiner.ie",
+          "url": "http://feeds.examiner.ie/ietopstories"
+        },
+        {
+          "id": 5,
+          "title": "The Guardian",
+          "description": "theguardian.com",
+          "url": "http://www.theguardian.com/world/rss"
+        },
+        {
+          "id": 6,
+          "title": "CNN",
+          "description": "cnn.com",
+          "url": "http://rss.cnn.com/rss/edition.rss"
+        },
+        {
+          "id": 7,
+          "title": "The Financial Times",
+          "description": "ft.com",
+          "url": "http://www.ft.com/rss/world"
+        },
+        {
+          "id": 8,
+          "title": "Sky News",
+          "description": "skynews.com",
+          "url": "http://feeds.skynews.com/feeds/rss/world.xml"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Economic",
+      "description": "Economic Information.",
+      "icon": "money",
+      "items": [
+        {
+          "id": 1,
+          "title": "finfacts.com",
+          "description": "Business and Finance Portal",
+          "url": "http://www.finfacts.com/irelandbusinessnews/rss.xml"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Media",
+      "description": "Information by Media",
+      "icon": "video-camera",
+      "items": [
+        {
+          "id": 1,
+          "title": "TEDTalks",
+          "description": "TED (Technology, Entertainment, Design) is a global set of conferences owned by the private non-profit Sapling Foundation, under the slogan: Ideas Worth Spreading.",
+          "url": "http://feeds.feedburner.com/tedtalks_video"
+        }
+      ]
+    } 
+ 
+  ]
+}
